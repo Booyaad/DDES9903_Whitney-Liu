@@ -14,9 +14,14 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EZPZ b) Examples/a) Standalone Example Scenes/01 Item Cycling.unity
     guid: 7ecc1225d74d4454aad820312b981b7c
+  - enabled: 1
+    path: Assets/__My Project/DDES.unity
+    guid: 039190a62e523d64cad23a9e9b88a1fd
+  - enabled: 1
+    path: Assets/__My Project/DDES00.unity
+    guid: c20975dfcaa61254eb65176bc056cde8
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3c28928f4ba463b408fa3dad31f078ec, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2d48f0579e33c5e40b9ae18996da130b, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 572d218a33398e646b4185c25afc1f0c, type: 2}
-  m_UseUCBPForAssetBundles: 0
