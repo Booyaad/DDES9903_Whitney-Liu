@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-1894688227725639973
+--- !u!114 &-2167064311873883811
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,9 +20,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: house_type_02_FBX Variant 8
+  m_Name: Flower Variant 3
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: -5456337166252884508, guid: 26d03b7add90a37448ec2b2159138825, type: 3}
+  m_Parent: {fileID: 8748892135801146194, guid: ff45e6d491770bf4bbc50d042d0bf07f, type: 3}
   m_ModifiedSerializedProperties: 2
   m_ValidKeywords:
   - _EMISSION
@@ -42,7 +42,8 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _Color: {r: 0.595416, g: 0.5205664, b: 0.39449912, a: 1}
-    - _EmissionColor: {r: 0.31398875, g: 0.23455065, b: 0.13013652, a: 1}
+    - _BaseColor: {r: 1, g: 0.75786155, b: 0.75786155, a: 1}
+    - _Color: {r: 1, g: 0.75786155, b: 0.75786155, a: 1}
+    - _EmissionColor: {r: 1, g: 0.5503144, b: 0.5503144, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

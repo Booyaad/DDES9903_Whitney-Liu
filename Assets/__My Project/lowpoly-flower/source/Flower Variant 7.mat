@@ -7,9 +7,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: house_type_02_FBX Variant 7
+  m_Name: Flower Variant 7
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: 2565375430283165475, guid: 26d03b7add90a37448ec2b2159138825, type: 3}
+  m_Parent: {fileID: 8748892135801146194, guid: ff45e6d491770bf4bbc50d042d0bf07f, type: 3}
   m_ModifiedSerializedProperties: 2
   m_ValidKeywords:
   - _EMISSION
@@ -29,11 +29,12 @@ Material:
     m_Ints: []
     m_Floats: []
     m_Colors:
-    - _Color: {r: 0.9063317, g: 0.83334094, b: 0.6517511, a: 1}
-    - _EmissionColor: {r: 0.79910296, g: 0.66538745, b: 0.3813261, a: 1}
+    - _BaseColor: {r: 1, g: 0.122641385, b: 0.122641385, a: 1}
+    - _Color: {r: 1, g: 0.12264136, b: 0.12264136, a: 1}
+    - _EmissionColor: {r: 1, g: 0.11006278, b: 0.11006278, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &835546465158217047
+--- !u!114 &4522361555600342791
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
