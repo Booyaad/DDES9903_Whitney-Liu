@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/__My Project/DDES00.unity
     guid: c20975dfcaa61254eb65176bc056cde8
+  - enabled: 1
+    path: Assets/__My Project/DDES111.unity
+    guid: 3dd5b3e9ed85dcb48ac44acfc91d4a7b
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3c28928f4ba463b408fa3dad31f078ec, type: 2}
